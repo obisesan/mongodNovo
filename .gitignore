@@ -1,2 +1,4 @@
-node_modules
-.env
+packages-lock.json
+node_modules/*
+
+.evn/*
