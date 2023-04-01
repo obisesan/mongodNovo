@@ -2,7 +2,7 @@
   "name": "manager",
   "version": "1.0.0",
   "engines": {
-    "node": "19.7.0"
+    "node": "12.20.2"
   },
   "description": "Demo",
   "main": "server.js",
@@ -41,3 +41,4 @@
     "nodemon": "^1.19.4"
   }
 }
+
